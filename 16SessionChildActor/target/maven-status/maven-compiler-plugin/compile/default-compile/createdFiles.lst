@@ -1,0 +1,12 @@
+demo/Client$GoTell.class
+demo/SessionManager$endSession.class
+demo/SessionManager$Response.class
+demo/SessionManager$MyMessage.class
+demo/SessionManager$Request.class
+demo/SessionManager$sesClientPair.class
+demo/Client$GetSession.class
+demo/Session.class
+demo/Client.class
+demo/SessionManager$createSession.class
+demo/SessionManager.class
+demo/SessionChildActor.class

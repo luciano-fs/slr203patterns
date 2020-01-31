@@ -1,0 +1,7 @@
+demo/MyActor$PrintBrokenMessage.class
+demo/MyCorrectMessage.class
+demo/MyBrokenMessage.class
+demo/MessageImmutabilityProblem.class
+demo/MyActor.class
+demo/Person.class
+demo/MyActor$PrintCorrectMessage.class
